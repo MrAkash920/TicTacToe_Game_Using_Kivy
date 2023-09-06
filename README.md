@@ -1,7 +1,8 @@
 # TicTacToe_Game_Using_Tkinter
 # XOXO Game 🎮
 
-![Tic-Tac-Toe](https://cdn.pixabay.com/photo/2019/05/26/19/46/tic-tac-toe-4231109_1280.jpg)
+![tic-tac-toe-4231109_1280 (1)](https://github.com/MrAkash920/TicTacToe_Game_Using_Tkinter/assets/112510755/9fa342ad-d821-4d0a-92db-5373f14fd5bc)
+
 
 🚀 Dive into nostalgic fun with this classic Tic-Tac-Toe game! 🤖💥
 # XOXO Game 🎮
