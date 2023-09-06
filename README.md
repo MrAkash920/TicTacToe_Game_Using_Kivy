@@ -23,9 +23,18 @@
 4. Navigate to the project directory.
 5. Run the game using the command: `python tic_tac_toe.py`
 
-
 **System Requirements:**
 - Python 3.x
 - Tkinter library
+
+## Contribution Guidelines
+We welcome contributions to make XOXO even better! Here's how you can contribute:
+- **Bug Fixes**: Find and fix bugs in the game.
+- **Enhancements**: Add new features or improve existing ones.
+- **Documentation**: Help improve the project's documentation.
+- **Testing**: Test the game on different systems and provide feedback.
+- **Feedback**: Share your suggestions and ideas through issues.
+
+To get started, fork this repository, make your changes, and submit a pull request. Let's make XOXO the best Tic-Tac-Toe game out there together! 🙌
 
 Enjoy the game! 🎉
