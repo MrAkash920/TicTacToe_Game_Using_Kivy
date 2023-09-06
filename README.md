@@ -12,8 +12,8 @@
 🚀 Dive into nostalgic fun with this classic Tic-Tac-Toe game! 🤖💥
 
 ## Features:
-- Play against a friend or a smart AI opponent.
-- Easy-to-use interface built with Tkinter.
+- Play against a friend .
+- Easy-to-use interface built with Kivy.
 - Hours of strategic entertainment.
 
 ## How to Run:
@@ -21,7 +21,7 @@
 2. Make sure you have Python 3.x installed.
 3. Open your terminal or command prompt.
 4. Navigate to the project directory.
-5. Run the game using the command: `python tic_tac_toe.py`
+5. Run the game using the command: `python XOXO.py`
 
 **System Requirements:**
 - Python 3.x
