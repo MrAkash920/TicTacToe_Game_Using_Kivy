@@ -29,9 +29,3 @@
 - Tkinter library
 
 Enjoy the game! 🎉
-
-m Requirements:**
-- Python 3.x
-- Tkinter library
-
-Enjoy the game! 🎉
