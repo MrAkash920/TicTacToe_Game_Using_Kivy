@@ -1,4 +1,4 @@
-# TicTacToe_Game_Using_Tkinter
+# TicTacToe_Game_Using_Kivy
 # XOXO Game 🎮
 
 ![tic-tac-toe-4231109_1280 (1)](https://github.com/MrAkash920/TicTacToe_Game_Using_Tkinter/assets/112510755/9fa342ad-d821-4d0a-92db-5373f14fd5bc)
@@ -25,7 +25,7 @@
 
 **System Requirements:**
 - Python 3.x
-- Tkinter library
+- Kivy library (pip install kivy to install kivy)
 
 ## Contribution Guidelines
 We welcome contributions to make XOXO even better! Here's how you can contribute:
